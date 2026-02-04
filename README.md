@@ -1,4 +1,5 @@
 # Waitlist Mini App Quickstart
+Built by Cryptonar – Base MiniKit Demo
 
 This is a demo Mini App application built using OnchainKit and the Farcaster SDK. Build a waitlist sign-up mini app for your company that can be published to the Base app and Farcaster. 
 
