@@ -98,7 +98,7 @@ export default function Home() {
       
       <div className={styles.content}>
         <div className={styles.waitlistForm}>
-          <h1 className={styles.title}>Join {farcasterConfig.miniapp.name.toUpperCase()}</h1>
+          <h1 className={styles.title}>Join Cryptonar Mini Appn {farcasterConfig.miniapp.name.toUpperCase()}</h1>
           
           <p className={styles.subtitle}>
              Hey {context?.user?.displayName || "there"}, Get early access and be the first to experience the future of<br />
